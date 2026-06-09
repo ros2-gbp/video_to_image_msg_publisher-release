@@ -1,0 +1,8 @@
+video_to_image_msg_publisher:
+  ros__parameters:
+    video_file: "/path/to/video.mp4"
+    camera_topic: "camera_image"
+    camera_frame: "camera_link"
+    image_encoding: "bgr8"
+    fps: 60
+    loop: false
