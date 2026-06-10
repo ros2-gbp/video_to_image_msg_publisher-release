@@ -1,3 +1,26 @@
+## video_to_image_msg_publisher (rolling) - 0.9.5-2
+
+The packages in the `video_to_image_msg_publisher` repository were released into the `rolling` distro by running `/home/rosez_user/.local/bin/bloom-release --new-track --rosdistro rolling --track rolling video_to_image_msg_publisher` on `Wed, 10 Jun 2026 06:59:29 -0000`
+
+The `video_to_image_msg_publisher` package was released.
+
+Version of package(s) in repository `video_to_image_msg_publisher`:
+
+- upstream repository: https://github.com/gstavrinos/video_to_image_msg_publisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.9.5-1`
+- new version: `0.9.5-2`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## video_to_image_msg_publisher (lyrical) - 0.9.5-2
 
 The packages in the `video_to_image_msg_publisher` repository were released into the `lyrical` distro by running `/home/rosez_user/.local/bin/bloom-release --new-track --rosdistro lyrical --track lyrical video_to_image_msg_publisher` on `Wed, 10 Jun 2026 06:55:55 -0000`
