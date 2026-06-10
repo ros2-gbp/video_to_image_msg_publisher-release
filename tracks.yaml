@@ -20,7 +20,7 @@ tracks:
     last_version: 0.9.5
     name: upstream
     patches: null
-    release_inc: '7'
+    release_inc: '8'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: humble
